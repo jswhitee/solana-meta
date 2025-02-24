@@ -4,8 +4,8 @@
     "description": "Pepe on Pump Fun!",
     "image": "https://raw.githubusercontent.com/jswhitee/solana-meta/refs/heads/main/Pumpe.png",
     "extensions": {
-    "website": "",
-    "twitter": "",
-    "telegram": ""
-  } 
+      "website": "https://en.wikipedia.org/wiki/Pepe_the_Frog",
+      "twitter": "",
+      "telegram": ""
+    }
   }
