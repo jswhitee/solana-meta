@@ -2,5 +2,10 @@
     "name": "Pump Fun Pepe",
     "symbol": "PUMPPE",
     "description": "Pepe on Pump Fun!",
-    "image": "https://raw.githubusercontent.com/jswhitee/solana-meta/refs/heads/main/pumppe.png"
+    "image": "https://raw.githubusercontent.com/jswhitee/solana-meta/refs/heads/main/Pumpe.png",
+    "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  } 
   }
