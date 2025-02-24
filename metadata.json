@@ -1,0 +1,6 @@
+{
+    "name": "Dev Testing Pepe",
+    "symbol": "DEVPEPE",
+    "description": "Example token to try out the Solana CLI",
+    "image": "https://raw.githubusercontent.com/jswhitee/solana-meta/refs/heads/main/pepe.png"
+  }
