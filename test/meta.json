@@ -3,7 +3,7 @@
     "symbol": "CASH",
     "description": "Bringing advanced digital asset management to everyone. Secure, flexible, and community-driven.",
     "image": "https://raw.githubusercontent.com/jswhitee/solana-meta/refs/heads/main/test/icon.png",
-    "extensions": {
+    "socials": {
       "website": "https://hashcash.dev/",
       "twitter": "https://x.com/HashCash_PORTAL",
       "telegram": ""
